@@ -1,0 +1,15 @@
+D:\Desktop\TheDog\Boss\pre_legb.png,395,263,429.030811425,304.213992614,None,-60.0,-0.0,-60,489.0,304.0,0,0,0
+D:\Desktop\TheDog\Boss\footb.png,0,0,None,None,0.0,0.0,0,26.0,66.0,0,0,0
+D:\Desktop\TheDog\Boss\legb.png,0,0,None,None,0.0,0.0,0,80.0,26.0,0,0,0
+D:\Desktop\TheDog\Boss\handb.png,0,0,None,None,0.0,0.0,0,60.0,18.0,0,0,0
+D:\Desktop\TheDog\Boss\pre_handb.png,158,351,175.0,374.999926984,None,-41.0,-0.0,-41,216.0,374.0,0,0,0
+D:\Desktop\TheDog\Boss\armb.png,0,0,None,None,0.0,0.0,0,30.0,18.0,0,0,0
+D:\Desktop\TheDog\Boss\connect.png,202,356,253.008798043,381.259887917,None,22.0,0.0,22,231.0,381.0,0,0,0
+D:\Desktop\TheDog\Boss\pre_leg.png,395,263,429.030811425,304.213992614,None,-60.0,-0.0,-60,489.0,304.0,0,0,0
+D:\Desktop\TheDog\Boss\body.png,0,0,0,0,None,0.0,0.0,0,0,0,0,0,0
+D:\Desktop\TheDog\Boss\head.png,0,0,None,None,0.0,0.0,0,57.0,59.0,0,0,0
+D:\Desktop\TheDog\Boss\foot.png,0,0,None,None,0.0,0.0,0,26.0,66.0,0,0,0
+D:\Desktop\TheDog\Boss\leg.png,0,0,None,None,0.0,0.0,0,80.0,26.0,0,0,0
+D:\Desktop\TheDog\Boss\hand.png,0,0,None,None,0.0,0.0,0,60.0,18.0,0,0,0
+D:\Desktop\TheDog\Boss\pre_hand.png,158,351,175.0,374.999926984,None,-41.0,-0.0,-41,216.0,374.0,0,0,0
+D:\Desktop\TheDog\Boss\arm.png,0,0,None,None,0.0,0.0,0,30.0,18.0,0,0,0
